@@ -1,6 +1,6 @@
 # recipe_app
-
-First Flutter App for OOP1 to teach variety of OOP topics in flutter.
+9 Nov 2023
+First Flutter App for Mobile Apps + OOP1 to teach variety of OOP topics in flutter.
 
 ## Getting Started
 

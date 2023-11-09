@@ -59,12 +59,12 @@ class _MyHomePageState extends State<MyHomePage> {
         padding: const EdgeInsets.all(16.0),
         child: Column(
           children: [
-            Image(image: AssetImage(recipe.url!)),
+            Image(image: AssetImage(recipe.url)),
             const SizedBox(
               height: 14.0,
             ),
             Text(
-              recipe.label!,
+              recipe.label,
               style: const TextStyle(
                   fontSize: 20.0,
                   fontWeight: FontWeight.w700,
